@@ -1,6 +1,5 @@
-package com.wjahatsyed;
+package com.wjahatsyed.java_basics;
 
-import com.wjahatsyed.java_basics.OperatorsDemo;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
